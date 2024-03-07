@@ -1,11 +1,8 @@
-<script setup>
-import { RouterLink, RouterView } from 'vue-router'
-</script>
+<script setup></script>
 
 <template>
   <div>我是APP</div>
+  <el-button>test</el-button>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
